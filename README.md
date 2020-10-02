@@ -1,4 +1,4 @@
-A team blog based on [Flask](http://flask.pocoo.org/)
+A amazing team for blog based on [Flask](http://flask.pocoo.org/)
 ===
 
 This project isn't supported at the moment, please see a newer [pypress-tornado](https://github.com/laoqiu/pypress-tornado)
